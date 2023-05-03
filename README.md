@@ -13,4 +13,6 @@ https://openstreetmap.jp
 https://openstreetmap.org/
 
 3. 地図の位置、大きさを調整する
-https://www.openstreetmap.org/#map=18/35.69616/139.75830
+https://www.openstreetmap.org/#map=17/35.69758/139.75923
+
+4. ブラウザの「ズーム」で90%にする。
